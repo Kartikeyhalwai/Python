@@ -1,0 +1,3 @@
+print("""Hello, World""")
+#1.Binary Data Type......
+a = b"hello, kartikey"
