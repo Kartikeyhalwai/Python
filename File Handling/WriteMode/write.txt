@@ -1,0 +1,2 @@
+This Line is written using file.write() method 
+HelloThis is KartikeyFrom B8

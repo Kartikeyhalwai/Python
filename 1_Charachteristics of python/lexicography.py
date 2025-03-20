@@ -1,0 +1,5 @@
+string = input("Enter the string seperated by comma ")
+list = string.split(",")
+list2 = sorted(list)
+str2 = "".join(list2)
+print(str2)
